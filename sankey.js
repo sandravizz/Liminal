@@ -24,7 +24,7 @@ const innerChart = svg
 // --------------------------------------
 
 const data = d3
-  .csv("./data_sankey (5).csv", d3.autoType)
+  .csv("./data_sankey.csv", d3.autoType)
   .then(function (data) {
     // console.log("raw_data", data);
 

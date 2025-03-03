@@ -2,48 +2,48 @@ investorName,entityName,roundSizeUsd,round,totalInvested
 Abu Dhabi Invest. Authority,MEGVII,750000000,Series D,750000000
 ICBC Asset Management,MEGVII,750000000,Series D,750000000
 Bank of China Group Invest.,MEGVII,750000000,Series D,750000000
-Blank Vent.,1Password,620000000,Series C,620000000
-TLG Cap.,Fenergo,600000000,Private Equity,600000000
+Blank Ventures,1Password,620000000,Series C,620000000
+TLG Capital,Fenergo,600000000,Private Equity,600000000
 China Reform Holdings Corporation,MEGVII,460000000,Series C,460000000
 Foxconn Tec. Group,MEGVII,460000000,Series C,650987842
 Sunshine Insurance Group,MEGVII,460000000,Series C,460000000
 SK Group,MEGVII,460000000,Series C,460000000
 Russia-China Invest. Fund,MEGVII,460000000,Series C,460000000
-Healthcare of Ontario Pension Plan,Pagaya Invest.s,350000000,Post-IPO Equity,350000000
+Healthcare of Ontario Pension Plan,Pagaya Invest.,350000000,Post-IPO Equity,350000000
 L Catterton,Forter,300000000,Series F,5488529036
 L Catterton,Forter,300000000,Series F,5488529036
 01 Advisors,Tipalti,270000000,Series F,516794686
 DST Global,Stripe,245000000,Series E,2216498117
 DST Global,Stripe,245000000,Series E,2216498117
 DST Global,Stripe,245000000,Series E,2216498117
-Cap. Group,Domo,235037225,Series D,235037225
-Dragon Cap.,Exabeam,200000000,Series F,425700000
+Capital Group,Domo,235037225,Series D,235037225
+Dragon Capital,Exabeam,200000000,Series F,425700000
 HSBC Bank Singapore,Atome,200000000,Debt Financing,400000000
-Victory Park Cap.,ZeroFox,170000000,Post-IPO Equity,579729439
-Dragon Cap.,Netskope,168700000,Series F,425700000
-Key 1 Cap.,CHEQ,150000000,Series C,150000000
+Victory Park Capital,ZeroFox,170000000,Post-IPO Equity,579729439
+Dragon Capital,Netskope,168700000,Series F,425700000
+Key 1 Capital,CHEQ,150000000,Series C,150000000
 01 Advisors,Tipalti,150000000,Series E,516794686
-Hanaco Vent. Cap.,CHEQ,150000000,Series C,453000000
+Hanaco Venture Capital,CHEQ,150000000,Series C,453000000
 Atlas Benjelloun,Cloudflare,150000000,Series E,160000000
 Alven,Stripe,150000000,Series D,804673743
 Alven,Stripe,150000000,Series D,804673743
 Alven,Stripe,150000000,Series D,804673743
 Credit Suisse,Domo,131000000,Series D,261000000
-Hummer Winblad Vent. Partners,Domo,125000000,Series C,155000000
+Hummer Winblad Venture Partners,Domo,125000000,Series C,155000000
 Mercato Partners,Domo,125000000,Series C,194000000
-Highgoal Cap.,unifonic,125000000,Series B,125000000
+Highgoal Capital,unifonic,125000000,Series B,125000000
 Riyad Bank,unifonic,125000000,Series B,126000000
 212,Insider,121000000,Series D,146200000
-Maor Invest.s,Silverfort,116000000,Series D,166882200
-Brighton Park Cap.,Silverfort,116000000,Series D,358108584
-Aflac Innovation Partners LLC,Pagaya Invest.s,102000000,Series D,102000000
-Harvey Golub,Pagaya Invest.s,102000000,Series D,141000000
-Clal Insurance Enterprises Holdings,Pagaya Invest.s,102000000,Series D,141000000
-GF Invest.s,Pagaya Invest.s,102000000,Series D,141000000
+Maor Invest.,Silverfort,116000000,Series D,166882200
+Brighton Park Capital,Silverfort,116000000,Series D,358108584
+Aflac Innovation Partners LLC,Pagaya Invest.,102000000,Series D,102000000
+Harvey Golub,Pagaya Invest.,102000000,Series D,141000000
+Clal Insurance Enterprises Holdings,Pagaya Invest.,102000000,Series D,141000000
+GF Invest.,Pagaya Invest.,102000000,Series D,141000000
 CCB International,MEGVII,100000000,Series C,4600000000
 Foxteq Holdings,MEGVII,100000000,Series C,100000000
-Qiming Vent. Partners,MEGVII,100000000,Series C,122000000
-Sinovation Vent.,MEGVII,100000000,Series C,122000000
+Qiming Venture Partners,MEGVII,100000000,Series C,122000000
+Sinovation Ventures,MEGVII,100000000,Series C,122000000
 Foxconn Tec. Group,MEGVII,100000000,Series C,650987842
 HSBC Bank Singapore,Atome,100000000,Debt Financing,400000000
 HSBC Bank Singapore,Atome,100000000,Debt Financing,400000000
@@ -52,256 +52,149 @@ Alven,Stripe,100000000,Series C,804673743
 Alven,Stripe,100000000,Series C,804673743
 Alven,Stripe,100000000,Series C,804673743
 PSG,Bitwarden,100000000,Series B,100000000
-Hanaco Vent. Cap.,Amount,99000000,Series D,453000000
-50 South Cap.,Amount,99000000,Series D,189000000
+Hanaco Venture Capital,Amount,99000000,Series D,453000000
+50 South Capital,Amount,99000000,Series D,189000000
 Invus,Amount,99000000,Series D,980000000
 Contrary,Stytch,90000000,Series B,236000000
 Contrary,Stytch,90000000,Series B,236000000
-Hanaco Vent. Cap.,Amount,86000000,Series C,453000000
+Hanaco Venture Capital,Amount,86000000,Series C,453000000
 Invus,Amount,86000000,Series C,980000000
 01 Advisors,Tipalti,76000000,Series D,516794686
 Foxconn Tec. Group,AISpeech,75987842,Series D,650987842
 MediaTek,AISpeech,75987842,Series D,75987842
-Updata Partners,FusionAuth,65000000,Vent. - Series Unknown,97500000
+Updata Partners,FusionAuth,65000000,Venture - Series Unknown,97500000
 Sherpa,Trusting Social Co.,65000000,Series C,65000000
-Wellington Cap. Management,The Trade Desk,60000000,Vent. - Series Unknown,60000000
+Wellington Capital Management,The Trade Desk,60000000,Venture - Series Unknown,60000000
 Mercato Partners,Domo,60000000,Series B,194000000
 GoldStone Invest.,AISpeech,58189869,Series E,58189869
-CTC Cap.,AISpeech,58189869,Series E,58189869
+CTC Capital,AISpeech,58189869,Series E,58189869
 Sean Bill,Amount,58000000,Series B,60800000
-Dragon Cap.,PerimeterX,57000000,Series D,425700000
+Dragon Capital,PerimeterX,57000000,Series D,425700000
 Contrary,Secureframe,56000000,Series B,236000000
-Impatient Vent.,Secureframe,56000000,Series B,62500000
+Impatient Ventures,Secureframe,56000000,Series B,62500000
 Flexport,Secureframe,56000000,Series B,56000000
-Optum Vent.,Secureframe,56000000,Series B,56000000
+Optum Ventures,Secureframe,56000000,Series B,56000000
 Kaiser Permanente,Secureframe,56000000,Series B,56000000
 Ash Devata,Secureframe,56000000,Series B,144000000
 Jonathan Oberheide,Secureframe,56000000,Series B,56000000
-Finch Cap.,Fourthline,54312110,Series B,80175492
-Oxford Cap. Partners,Red Sift,54000000,Series B,69836215
-MMC Vent.,Red Sift,54000000,Series B,84949556
+Finch Capital,Fourthline,54312110,Series B,80175492
+Oxford Capital Partners,Red Sift,54000000,Series B,69836215
+MMC Ventures,Red Sift,54000000,Series B,84949556
 Section 32,Gretel,52199996,Series B,110199996
-UiPath Vent.,airSlate,51500000,Series C,51500000
+UiPath Ventures,airSlate,51500000,Series C,51500000
 The General Partnership,Sardine,51500000,Series B,81500000
-HV Cap.,Yapily,51000000,Series B,136853554
-Moxxie Vent.,Certn,50000000,Series B,105236690
-Scribble Vent.,Certn,50000000,Series B,100794686
+HV Capital,Yapily,51000000,Series B,136853554
+Moxxie Ventures,Certn,50000000,Series B,105236690
+Scribble Ventures,Certn,50000000,Series B,100794686
 Zoom,Theta Lake,50000000,Series B,50000000
-RingCentral Vent.,Theta Lake,50000000,Series B,50000000
-Curql,Zest AI,50000000,Vent. - Series Unknown,153100000
-Covalent Vent.,Certn,50000000,Series B,80000000
+RingCentral Ventures,Theta Lake,50000000,Series B,50000000
+Curql,Zest AI,50000000,Venture - Series Unknown,153100000
+Covalent Ventures,Certn,50000000,Series B,80000000
 Hedosophia,VIDA,47670000,Series A,581498122
 Future Shape,VIDA,47670000,Series A,47670000
 DST Global,VIDA,47670000,Series A,2216498117
-Peterson Vent.,WithClutch,41000000,Series A,86500000
-Peterson Vent.,Clutch,41000000,Series A,86500000
+Peterson Ventures,WithClutch,41000000,Series A,86500000
+Peterson Ventures,Clutch,41000000,Series A,86500000
 Kaszek,Pomelo,40000000,Series B,78300000
-Hanaco Vent. Cap.,Amount,40000000,Private Equity,453000000
-Victory Park Cap.,Tala,40000000,Debt Financing,579729439
+Hanaco Venture Capital,Amount,40000000,Private Equity,453000000
+Victory Park Capital,Tala,40000000,Debt Financing,579729439
 Section 32,Pomelo,40000000,Series B,110199996
-Brighton Park Cap.,DataVisor,40000000,Vent. - Series Unknown,358108584
-Brighton Park Cap.,DataVisor,40000000,Vent. - Series Unknown,358108584
+Brighton Park Capital,DataVisor,40000000,Venture - Series Unknown,358108584
+Brighton Park Capital,DataVisor,40000000,Venture - Series Unknown,358108584
 Overture VC,Xage Security,39000000,Series B,65000000
 Joey Low,EverC,35882200,Series B,39382200
-Maor Invest.s,EverC,35882200,Series B,166882200
-Electric Cap.,Spruce,34000000,Series A,71400000
-Transmedia Cap.,Domo,33000000,Series A,33000000
+Maor Invest.,EverC,35882200,Series B,166882200
+Electric Capital,Spruce,34000000,Series A,71400000
+Transmedia Capital,Domo,33000000,Series A,33000000
 LendingTree,EarnUp,31000000,Series C,31000000
 Keybank,EarnUp,31000000,Series C,161000000
-Moxxie Vent.,Certn,30000000,Series B,105236690
-Scribble Vent.,Certn,30000000,Series B,100794686
-Hanaco Vent. Cap.,Amount,30000000,Private Equity,453000000
-Hanaco Vent. Cap.,Amount,30000000,Private Equity,453000000
-Equable Cap.,OCR Labs,30000000,Series B,60000000
-Kirenaga Partners,Clearview,30000000,Series B,30000000
-Hal Lambert,Clearview,30000000,Series B,30000000
+Moxxie Ventures,Certn,30000000,Series B,105236690
+Scribble Ventures,Certn,30000000,Series B,100794686
+Hanaco Venture Capital,Amount,30000000,Private Equity,453000000
+Hanaco Venture Capital,Amount,30000000,Private Equity,453000000
+Equable Capital,OCR Labs,30000000,Series B,60000000
 Hashed,Humanity Protocol,30000000,Seed,57280000
 Curql,Amount,30000000,Private Equity,153100000
 Curql,Amount,30000000,Private Equity,153100000
-Ben Braverman,DataGrail,30000000,Series B,30000000
-Joshua Browder,DataGrail,30000000,Series B,30000000
-Decent Cap.,DataGrail,30000000,Series B,30000000
-Daniel Yanisse,Truework,30000000,Series B,30000000
-Brighton Park Cap.,AppViewX,30000000,Series A,358108584
-Communitas Asset Management,ComplyAdvantage,30000000,Series B,30000000
-Next Play Vent.,Truework,30000000,Series B,72850000
-Covalent Vent.,Certn,30000000,Series B,80000000
-Vipul Ved Prakash,Truework,30000000,Series B,30000000
-KG Invest.s,Proofpoint,28000000,Series F,28000000
+Brighton Park Capital,AppViewX,30000000,Series A,358108584
+Next Play Ventures,Truework,30000000,Series B,72850000
+Covalent Ventures,Certn,30000000,Series B,80000000
 Base10 Partners,Okendo,26000000,Series A,98500000
-Innovating Cap.,Strata Identity,26000000,Series B,283300000
-InvestMichigan,Blis,25000000,Series B,25000000
-Marubeni,D-ID,25000000,Series B,25000000
-Our Innovation Fund,D-ID,25000000,Series B,25538410
-Calibrate Vent.,Diveplane,25000000,Series A,25000000
-Macquarie Cap.,D-ID,25000000,Series B,25000000
-Harvey Golub,Pagaya Invest.s,25000000,Series C,141000000
-Clal Insurance Enterprises Holdings,Pagaya Invest.s,25000000,Series C,141000000
+Innovating Capital,Strata Identity,26000000,Series B,283300000
+Harvey Golub,Pagaya Invest.,25000000,Series C,141000000
+Clal Insurance Enterprises Holdings,Pagaya Invest.,25000000,Series C,141000000
 Ibex Investors,Zimperium,25000000,Series C,83000000
-GF Invest.s,Pagaya Invest.s,25000000,Series C,141000000
+GF Invest.,Pagaya Invest.,25000000,Series C,141000000
 LDV Partners,Alcatraz AI,25000000,Series A,78200000
-Sigma Defense Systems,Diveplane,25000000,Series A,25000000
-MA Growth Cap.,Demyst,24676550,Funding Round,24676550
 Curql,Zest AI,23000000,Funding Round,153100000
-Qiming Vent. Partners,MEGVII,22000000,Series B,122000000
-Sinovation Vent.,MEGVII,22000000,Series B,122000000
-Moxxie Vent.,Certn,20794686,Series A,105236690
-Weekend Fund,Certn,20794686,Series A,25236690
+Qiming Venture Partners,MEGVII,22000000,Series B,122000000
+Sinovation Ventures,MEGVII,22000000,Series B,122000000
+Moxxie Ventures,Certn,20794686,Series A,105236690
 01 Advisors,Certn,20794686,Series A,516794686
-Nitesh Banta,Certn,20794686,Series A,24794686
-Scribble Vent.,Certn,20794686,Series A,100794686
-Bart Swanson,Certn,20794686,Series A,20794686
-Yousif Al-Dujaili,Certn,20794686,Series A,25236690
-Grafton Cap.,Omilia,20000000,Private Equity,20000000
-Hummer Winblad Vent. Partners,Domo,20000000,Series A,155000000
+Scribble Ventures,Certn,20794686,Series A,100794686
+Hummer Winblad Venture Partners,Domo,20000000,Series A,155000000
 Updata Partners,Shufti Pro,20000000,Series A,97500000
-Kensington Cap. Partners Limited,Zest AI,20000000,Series C,20000000
-Eastward Cap. Partners,Zest AI,20000000,Series C,32000000
-Brighton Park Cap.,AppViewX,20000000,Series B,358108584
+Eastward Capital Partners,Zest AI,20000000,Series C,32000000
+Brighton Park Capital,AppViewX,20000000,Series B,358108584
 Overture VC,Xage Security,20000000,Series B,65000000
-Luno Expeditions,Sardine,19500000,Series A,19500000
-Covenant Vent. Cap.,NextRoll,19000000,Secondary Market,23600000
-Hanaco Vent. Cap.,Guardz,18000000,Series A,453000000
+Hanaco Venture Capital,Guardz,18000000,Series A,453000000
 Base10 Partners,Secureframe,18000000,Series A,98500000
-Banana Cap.,Secureframe,18000000,Series A,18000000
-Backend Cap.,Secureframe,18000000,Series A,22500000
-Lorimer Vent.,Secureframe,18000000,Series A,22600000
 Section 32,Pomelo,18000000,Series A,110199996
-First National Bank Of Omaha,Zest AI,18000000,Vent. - Series Unknown,18000000
-VyStar Credit Union,Zest AI,18000000,Vent. - Series Unknown,18000000
 Elon Musk,Stripe,18000000,Series A,280000000
 Elon Musk,Stripe,18000000,Series A,280000000
 Elon Musk,Stripe,18000000,Series A,280000000
-Finch Cap.,Fourthline,17324781,Series A,80175492
-Rudolf Booker,Fourthline,17324781,Series A,17324781
-Next Play Vent.,Evervault,16200000,Series A,72850000
-Volution,Passfort,16155267,Series A,16155267
-Russian Direct Invest. Fund,NTechLab,15000000,Vent. - Series Unknown,15000000
-Atlantic Labs,Decentriq,15000000,Series A,18785280
-Eclipse Vent.,Decentriq,15000000,Series A,15000000
-btov Partners,Decentriq,15000000,Series A,18785280
-Tatiana Fontalvo,Truora,15000000,Series A,15000000
-Anna X. Wang,Truora,15000000,Series A,15000000
-Brian Requarth,Truora,15000000,Series A,15000000
-Maria Echeverri Gomez,Truora,15000000,Series A,25000000
-Dileep Thazhmon,Truora,15000000,Series A,15000000
-Simon Borrero,Truora,15000000,Series A,25000000
-Israel Englander,LeapYear Tec.,15000000,Vent. - Series Unknown,15000000
-Valentina Valencia,Truora,15000000,Series A,15000000
-Harpoon,LeapYear Tec.,15000000,Vent. - Series Unknown,115000000
-Kerry Wang,Truora,15000000,Series A,15000000
-17Sigma,Truora,15000000,Series A,15000000
-Angela Borrero,Truora,15000000,Series A,15000000
-Andrew Vigneault,SentiLink,14000000,Series A,22625000
-SCB Group,Pagaya Invest.s,14000000,Series B,14000000
-Harvey Golub,Pagaya Invest.s,14000000,Series B,141000000
-Clal Insurance Enterprises Holdings,Pagaya Invest.s,14000000,Series B,141000000
-GF Invest.s,Pagaya Invest.s,14000000,Series B,141000000
-SJF Vent.,MediaMath,14000000,Series B,25000000
+Finch Capital,Fourthline,17324781,Series A,80175492
+Next Play Ventures,Evervault,16200000,Series A,72850000
+Harpoon,LeapYear Tec.,15000000,Venture - Series Unknown,115000000
+Harvey Golub,Pagaya Invest.,14000000,Series B,141000000
+Clal Insurance Enterprises Holdings,Pagaya Invest.,14000000,Series B,141000000
+GF Invest.,Pagaya Invest.,14000000,Series B,141000000
 Tom Noonan,Evident ,14000000,Series C,30600000
-Mindset Vent.,D-ID,13500000,Series A,34300000
-Omron Vent.,D-ID,13500000,Series A,13500000
-Hyundai Motor Company,D-ID,13500000,Series A,18800000
-AI Alliance,D-ID,13500000,Series A,13500000
-MMC Vent.,BotGuard,13113722,Series A,84949556
-Ott Kaukver,Yapily,13000000,Series A,22400000
-Frank Strauss,Yapily,13000000,Series A,13000000
-HV Cap.,Yapily,13000000,Series A,136853554
-Roberto Nicastro,Yapily,13000000,Series A,18400000
-Joseph Grundfest,LeapYear Tec.,12600000,Series A,12600000
-Star Farm Vent.,EverC,12501223,Series A,22001223
-Eastward Cap. Partners,PayRange,12000000,Series A,32000000
+Mindset Ventures,D-ID,13500000,Series A,34300000
+MMC Ventures,BotGuard,13113722,Series A,84949556
+HV Capital,Yapily,13000000,Series A,136853554
+Eastward Capital Partners,PayRange,12000000,Series A,32000000
 Ibex Investors,Zimperium,12000000,Series B,83000000
-Cap. Resource Partners,Lionbridge AI,12000000,Vent. - Series Unknown,12000000
-SJF Vent.,Respondology,11000000,Series A,25000000
-Polychain,NuCypher,10700000,Vent. - Series Unknown,28880000
-Hashed,NuCypher,10700000,Vent. - Series Unknown,57280000
-Arrington XRP Cap.,NuCypher,10700000,Vent. - Series Unknown,21380000
-Bitmain,NuCypher,10700000,Vent. - Series Unknown,21380000
-Notation Cap.,NuCypher,10700000,Vent. - Series Unknown,22880000
-BlueMind,NuCypher,10700000,Vent. - Series Unknown,10700000
-Y Combinator Continuity Fund,NuCypher,10700000,Vent. - Series Unknown,21380000
-BitFury Cap.,NuCypher,10700000,Vent. - Series Unknown,21380000
-Polychain,NuCypher,10680000,Initial Coin Offering,28880000
+Hashed,NuCypher,10700000,Venture - Series Unknown,57280000
 Hashed,NuCypher,10680000,Initial Coin Offering,57280000
-Arrington XRP Cap.,NuCypher,10680000,Initial Coin Offering,21380000
-Bitmain,NuCypher,10680000,Initial Coin Offering,21380000
-Notation Cap.,NuCypher,10680000,Initial Coin Offering,22880000
-Y Combinator Continuity Fund,NuCypher,10680000,Initial Coin Offering,21380000
-BitFury Cap.,NuCypher,10680000,Initial Coin Offering,21380000
-Ronald Conway,Domo,10000000,Angel,11200000
-WPP,Domo,10000000,Angel,17000000
-Hummer Winblad Vent. Partners,Domo,10000000,Angel,155000000
-David Lee,Domo,10000000,Angel,30000000
+Hummer Winblad Venture Partners,Domo,10000000,Angel,155000000
 Atlas Benjelloun,Cloudflare,10000000,Series A,160000000
-Alpana Vent.,Inpher.io,10000000,Series A,14000000
-Curql,Facteus,10000000,Vent. - Series Unknown,153100000
+Curql,Facteus,10000000,Venture - Series Unknown,153100000
 Curql,Allure Security,10000000,Series A,153100000
-Star Farm Vent.,EverC,9500000,Series A,22001223
 Tom Noonan,Tugboat Logic,9300000,Series A,30600000
 Mercato Partners,Device Authority,9000000,Series A,194000000
-UCL Tec. Fund,Hazy,9000000,Series A,11260400
-Nationwide Building Society,Hazy,9000000,Series A,10800000
-Oxford Cap. Partners,Red Sift,8836215,Series A,69836215
-MMC Vent.,Red Sift,8836215,Series A,84949556
-Andrew Vigneault,Clearview,8625000,Vent. - Series Unknown,22625000
+Oxford Capital Partners,Red Sift,8836215,Series A,69836215
+MMC Ventures,Red Sift,8836215,Series A,84949556
 Ibex Investors,Zimperium,8000000,Series A,83000000
-LDV Partners,Alcatraz AI,8000000,Vent. - Series Unknown,78200000
-Electric Cap.,Spruce,7500000,Seed,71400000
+LDV Partners,Alcatraz AI,8000000,Venture - Series Unknown,78200000
+Electric Capital,Spruce,7500000,Seed,71400000
 Tom Noonan,Deduce,7300000,Seed,30600000
-Innovating Cap.,Deduce,7300000,Seed,283300000
-LDV Partners,Alcatraz AI,6100000,Vent. - Series Unknown,78200000
+Innovating Capital,Deduce,7300000,Seed,283300000
+LDV Partners,Alcatraz AI,6100000,Venture - Series Unknown,78200000
 Overture VC,Xage Security,6000000,Series B,65000000
-Ott Kaukver,Yapily,5400000,Seed,22400000
-HV Cap.,Yapily,5400000,Seed,136853554
-Roberto Nicastro,Yapily,5400000,Seed,18400000
-Mindset Vent.,D-ID,5300000,Convertible Note,34300000
-Pegasus Tech Vent.,D-ID,5300000,Convertible Note,16600000
-Hyundai Motor Company,D-ID,5300000,Convertible Note,18800000
-Oxford Cap. Partners,Zamna,5000000,Seed,69836215
-Zürcher Kantonal Bank,PXL Vision,4767477,Seed,10135855
-Covenant Vent. Cap.,Amplitude,4600000,Secondary Market,23600000
-Chapter One Vent.,Secureframe,4500000,Seed,11000000
+HV Capital,Yapily,5400000,Seed,136853554
+Mindset Ventures,D-ID,5300000,Convertible Note,34300000
+Oxford Capital Partners,Zamna,5000000,Seed,69836215
 Base10 Partners,Secureframe,4500000,Seed,98500000
-Backend Cap.,Secureframe,4500000,Seed,22500000
-Peterson Vent.,DataFleets,4500000,Seed,86500000
-Moxxie Vent.,Certn,4442004,Seed,105236690
-Weekend Fund,Certn,4442004,Seed,25236690
-Yousif Al-Dujaili,Certn,4442004,Seed,25236690
-Polychain,NuCypher,4400000,Vent. - Series Unknown,28880000
-Reciprocal Vent.,NuCypher,4400000,Vent. - Series Unknown,32400000
-Hashed,NuCypher,4400000,Vent. - Series Unknown,57280000
-Kenetic,NuCypher,4400000,Vent. - Series Unknown,192900000
-B Cap. Group,Obviously AI,4100000,Vent. - Series Unknown,81100000
-Nitesh Banta,Mozart Data,4000000,Seed,24794686
-Pegasus Tech Vent.,D-ID,4000000,Seed,16600000
-Atlantic Labs,Decentriq,3785280,Seed,18785280
-btov Partners,Decentriq,3785280,Seed,18785280
+Peterson Ventures,DataFleets,4500000,Seed,86500000
+Moxxie Ventures,Certn,4442004,Seed,105236690
+Reciprocal Ventures,NuCypher,4400000,Venture - Series Unknown,32400000
+Hashed,NuCypher,4400000,Venture - Series Unknown,57280000
+Kenetic,NuCypher,4400000,Venture - Series Unknown,192900000
+B Capital Group,Obviously AI,4100000,Venture - Series Unknown,81100000
 Joey Low,EverC,3500000,Series A,39382200
 Kaszek,Truora,3300000,Seed,78300000
-Chiratae Vent.,Fintellix Solutions,3230000,Series A,143230000
-Love Vent.,Detected,3054103,Seed,12714148
-Love Vent.,Detected,3034688,Seed,12714148
-Finch Cap.,Fourthline,3000000,Seed,80175492
-Polytech Vent.,Inpher.io,3000000,Seed,36634270
-Alpana Vent.,Inpher.io,3000000,Seed,14000000
-Sujay Tyle,Truework,2900000,Seed,12900000
-Love Vent.,Detected,2545945,Seed,12714148
+Chiratae Ventures,Fintellix Solutions,3230000,Series A,143230000
+Finch Capital,Fourthline,3000000,Seed,80175492
+Polytech Ventures,Inpher.io,3000000,Seed,36634270
 212,Insider,2200000,Series A,146200000
-Love Vent.,Detected,2039706,Seed,12714148
-Love Vent.,Detected,2039706,Seed,12714148
-Oxford Cap. Partners,Red Sift,2000000,Seed,69836215
+Oxford Capital Partners,Red Sift,2000000,Seed,69836215
 Elon Musk,Stripe,2000000,Seed,280000000
 Elon Musk,Stripe,2000000,Seed,280000000
 Elon Musk,Stripe,2000000,Seed,280000000
-UCL Tec. Fund,Hazy,1800000,Seed,11260400
-Nationwide Building Society,Hazy,1800000,Seed,10800000
 Hashed,Humanity Protocol,1500000,Pre-Seed,57280000
-Polytech Vent.,Inpher.io,1000000,Seed,36634270
-Alpana Vent.,Inpher.io,1000000,Seed,14000000
+Polytech Ventures,Inpher.io,1000000,Seed,36634270
 Riyad Bank,Mastercard,1000000,Series A,126000000
 BDMI,Sensity,802156,Seed,35802156
 Alven,Mention,800000,Seed,804673743
-Fusion Fund,NuCypher,750000,Seed,11950000
-UCL Tec. Fund,Hazy,460400,Pre-Seed,11260400
 Curql,Privacy Lock,100000,Pre-Seed,153100000

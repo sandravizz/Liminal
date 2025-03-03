@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Investors vs. Investments</title>
+    <meta
+      name="description"
+      content="A data visualisation project about the connection between investors and investments"
+    />
+    <meta
+      name="keywords"
+      content="data visualisation, d3.js, investment, sankey"
+    />
+    <meta name="author" content="Sandra Becker" />
+    <link rel="stylesheet" type="text/css" href="base.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;1,100;1,300&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=swap" rel="stylesheet">
+
+  </head>
+
+  <body>
+    <main>
+      <div class="frame">
+        <div class="container">
+          <p class="title">
+            <span class="support investment">INVESTMENTS</span> <span class="support relation">VS.</span> <span class="support investor">INVESTORS</span> 
+          </p>
+          <p class="chart_title">
+            Who is the biggest investor, which is the biggest investment and how are they related.  
+          </p>
+          <div id="chart"></div>
+          <p class="footer">
+            <strong>Interactivity</strong>
+            When hover over either an investments on the left side or an investors on the right sight we can see the details.           
+          </p><p class="footer">  
+            <strong>Animation</strong>
+            Order by investment size in dollar the connections are appearing one by one starting with the biggest.             
+          </p><p class="footer">
+            <strong>How to read the chart</strong>           
+            There are basically tree charts in one. We see the investments in the form of stacked bar chart to the left and the investors to the right. The sankey allows us to see their connections in comparison with all connections hence investments made. 
+          </p>
+        </div>
+      </div>
+    </main>
+    <script src="d3.js"></script>
+    <script src="d3-sankey.js"></script>
+    <script src="https://unpkg.com/d3-v6-tip@1.0.6/build/d3-v6-tip.js"></script>
+    <script src="sankey.js"></script>
+  </body>
+</html>

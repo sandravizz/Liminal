@@ -112,8 +112,7 @@ a:focus {
 	margin-bottom: 5px;
 	margin-top: 0px;
 	font-weight: 400;
-	font-size: var(--step--4);
-
+	font-size: var(--step--3);
 }
 
 .support {

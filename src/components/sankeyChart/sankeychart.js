@@ -106,7 +106,7 @@ const SankeyInvestments = () => {
                     .attr("fill", (d) => (d.x0 > innerWidth / 2 ? "#3bf4fb" : "#caff8a"))
                     .attr("dy", "0.4em")
                     .attr("text-anchor", (d) => (d.x0 < innerWidth / 2 ? "end" : "start"))
-                    .attr("font-size", (d) => (d.y0 < innerHeight / 2 ? 12 : 8))
+                    .attr("font-size", (d) => (d.y0 < innerHeight / 2 ? 20 : (d.y0 > innerHeight / 1.5 ? 6 : 15 )))
                     .text((d) => d.name)
                     .append("tspan")
                     .attr("fill-opacity", 0.6)

@@ -15,18 +15,8 @@ body {
   --color-link-hover: #fff;
   color: var(--color-text);
   background-color: var(--color-bg);
-
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   display: block;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.rootdiv {
-  width: 100%;
-  height: auto;
+  font-family: 'Montserrat Alternates', sans-serif;
 }

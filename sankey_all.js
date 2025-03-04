@@ -24,7 +24,7 @@ const innerChart = svg
 // --------------------------------------
 
 const data = d3
-  .csv("./data_sankey.csv", d3.autoType)
+  .csv("./data_sankey_all.csv", d3.autoType)
   .then(function (data) {
     // console.log("raw_data", data);
 
@@ -38,6 +38,7 @@ const data = d3
         source: d["entityName"],
         value: d["roundSizeUsd"],
         round: d["round"],
+        type: d["investorType"],
         id: i
       });
     });
@@ -133,13 +134,13 @@ const data = d3
       .attr("fill", (d) => (d.x0 > innerWidth / 2 ? "#3bf4fb" : "#caff8a"))
       .attr("dy", "0.4em")
       .attr("text-anchor", (d) => (d.x0 < innerWidth / 2 ? "end" : "start"))
-      .attr("font-size", (d) => (d.y0 < innerHeight / 2 ? 12 : 8 ))
+      .attr("font-size", (d) => (d.y0 < innerHeight / 1.5 ? 9 : 5 ))
       .attr("font-weight", (d) => (d.x0 < innerWidth / 2 ? 400 : 400))
       .text((d) => d.name + "s")
       .append("tspan")
       .attr("fill-opacity", (d) => (d.x0 < innerWidth / 2 ? 0.6 : 0.6))
       .attr("font-weight", 500)
-      .attr("font-size", (d) => (d.y0 < innerHeight / 2 ? 9 : 6 ))
+      .attr("font-size", (d) => (d.y0 < innerHeight / 1.5 ? 9 : 0 ))
       .text((d) => `  ${format(d.value)}`);
 
    //Links: path

@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from 'react';
 import * as d3 from 'd3';
 import { sankey, sankeyLinkHorizontal, sankeyCenter } from 'd3-sankey';
 
-const SankeyInvestments = () => {
+const Sankey_entity = () => {
     const chartRef = useRef();
 
     // Margin and canvas
@@ -27,7 +27,7 @@ const SankeyInvestments = () => {
             .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
         // Data loading
-        d3.csv("./data/data_sankey_all.csv", d3.autoType)
+        d3.csv("./data/data_sankey_entity.csv", d3.autoType)
             .then(function (data) {
                 // Empty array
                 let links = [];
@@ -139,4 +139,4 @@ const SankeyInvestments = () => {
     return <div class="oursvg" ref={chartRef}></div>;
 };
 
-export default SankeyInvestments;
+export default Sankey_entity;

@@ -1,8 +1,3 @@
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
 html {
   font-size: 100%;
 }
@@ -24,6 +19,7 @@ body {
 /*--------------------------------------*/
 /* Font stylings */
 /*--------------------------------------*/
+
 
 :root {
   --step--10: clamp(0.1342rem, 0.1982rem + -0.0826vw, 0.1817rem);

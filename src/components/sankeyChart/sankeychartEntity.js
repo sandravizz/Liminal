@@ -2,13 +2,13 @@ import React, { useEffect, useRef } from 'react';
 import * as d3 from 'd3';
 import { sankey, sankeyLinkHorizontal, sankeyCenter } from 'd3-sankey';
 
-const Sankey_entity = () => {
+const SankeyEntity = () => {
     const chartRef = useRef();
 
     // Margin and canvas
-    const margin = { top: 40, right: 300, bottom: 10, left: 150 };
+    const margin = { top: 0, right: 300, bottom: 10, left: 150 };
     const width = 1300;
-    const height = 1000;
+    const height = 1200;
     const innerWidth = width - margin.left - margin.right;
     const innerHeight = height - margin.top - margin.bottom;
 
@@ -82,7 +82,7 @@ const Sankey_entity = () => {
                     .join("rect")
                     .attr("x", (d) => d.x0)
                     .attr("y", (d) => d.y0)
-                    .attr("height", (d) => Math.min(Math.max(0.4, d.y1 - d.y0), 300))
+                    .attr("height", (d) => Math.min(Math.max(0.4, d.y1 - d.y0), 400))
                     .attr("width", 50)
                     .attr("fill", (d) => (d.x0 > innerWidth / 2 ? "#8AFFF9" : "#caff8a"))
                     .attr("opacity", 1)
@@ -106,12 +106,12 @@ const Sankey_entity = () => {
                     .attr("fill", (d) => (d.x0 > innerWidth / 2 ? "#3bf4fb" : "#caff8a"))
                     .attr("dy", "0.4em")
                     .attr("text-anchor", (d) => (d.x0 < innerWidth / 2 ? "end" : "start"))
-                    .attr("font-size", (d) => (d.y0 < innerHeight / 2 ? 12 : 8))
+                    .attr("font-size", (d) => (d.y0 < innerHeight / 1.9 ? 15 : (d.y0 > innerHeight / 1.4 ? 0 : 9 )))
                     .text((d) => d.name)
                     .append("tspan")
                     .attr("fill-opacity", 0.6)
                     .attr("font-weight", 500)
-                    .attr("font-size", (d) => (d.y0 < innerHeight / 2 ? 9 : 6))
+                    .attr("font-size", (d) => (d.y0 < innerHeight / 1.9 ? 14 : (d.y0 > innerHeight / 1.4 ? 0 : 8 )))
                     .text((d) => ` ${format(d.value)}`);
 
                 // Draw links
@@ -139,4 +139,4 @@ const Sankey_entity = () => {
     return <div class="oursvg" ref={chartRef}></div>;
 };
 
-export default Sankey_entity;
+export default SankeyEntity;

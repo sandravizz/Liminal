@@ -9,11 +9,6 @@
   height: auto;
 }
 
-a {
-  color: white;
-  font-size: var(--step--2);
-}
-
 svg {
   width: 1200px;
   height: 800px;
@@ -30,15 +25,15 @@ svg {
   margin-top: 20px;
   font-weight: 900;
   letter-spacing: -1;
-  font-size: var(--step-3);
+  font-size: var(--step-4);
 }
 
 .chart_title {
   margin-bottom: 20px;
   margin-left: 20px;
   margin-top: 0px;
-  font-weight: 300;
-  font-size: var(--step--2);
+  font-weight: 400;
+  font-size: var(--step--1);
 }
 
 .support {
@@ -51,25 +46,28 @@ svg {
 
 .investor {
   color: #8AFFF9;
-  /* background-color: #3bf4fb; */
 }
 
 .investment {
   color: #caff8a;
-  /* background-color: #caff8a; */
 }
 
 .relation {
   color: #BE8AFF;
-  /* background-color: #caff8a; */
 }
 
-.footer {
-  margin-bottom: 4px;
+.explain {
+  margin-bottom: 5px;
   margin-left: 20px;
   margin-top: 0px;
-  font-weight: 400;
+  font-weight: 500;
   font-size: var(--step--3);
+}
+
+a {
+  color: #8AFFF9;
+  font-size: var(--step--2);
+  font-weight: 500;
 }
 
 nav {
@@ -81,22 +79,24 @@ nav {
 ul {
   list-style: none;
   text-align: center;
-  border-width: 2px;
-  background: #264194;
-  padding: 2px;
+  border-width: 0px;
+  background: none;
+  padding: 0.2px;
 }
 
 ul li {
   float: left;
   text-align: center;
-  padding: 2px 2px 2px 2px;
-  ;
-  font-size: large;
-  border-right: 0px solid;
+  padding: 6px 6px 6px 6px;
+  margin: 0px 4px 4px 4px;
+  border-bottom: 0.01px dashed #8AFFF9;
+  border-right: 0.01px dashed #8AFFF9;
+  border-left: 0.01px dashed #8AFFF9;
+  border-top: 0.01px dashed #8AFFF9;
 }
 
 ul li:last-child {
-  border-right: 0 solid;
+  border-right: 0.01px dashed #8AFFF9;
 }
 
 ul li a {
@@ -104,5 +104,5 @@ ul li a {
 }
 
 ul li a:hover {
-  color: white;
+  font-weight: 900;
 }

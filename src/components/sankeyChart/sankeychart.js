@@ -2,13 +2,13 @@ import React, { useEffect, useRef } from 'react';
 import * as d3 from 'd3';
 import { sankey, sankeyLinkHorizontal, sankeyCenter } from 'd3-sankey';
 
-const SankeyInvestments = () => {
+const SankeyAll = () => {
     const chartRef = useRef();
 
     // Margin and canvas
-    const margin = { top: 40, right: 300, bottom: 10, left: 150 };
+    const margin = { top: 0, right: 300, bottom: 10, left: 150 };
     const width = 1300;
-    const height = 1000;
+    const height = 1200;
     const innerWidth = width - margin.left - margin.right;
     const innerHeight = height - margin.top - margin.bottom;
 
@@ -106,12 +106,12 @@ const SankeyInvestments = () => {
                     .attr("fill", (d) => (d.x0 > innerWidth / 2 ? "#3bf4fb" : "#caff8a"))
                     .attr("dy", "0.4em")
                     .attr("text-anchor", (d) => (d.x0 < innerWidth / 2 ? "end" : "start"))
-                    .attr("font-size", (d) => (d.y0 < innerHeight / 2 ? 20 : (d.y0 > innerHeight / 1.5 ? 6 : 15 )))
+                    .attr("font-size", (d) => (d.y0 < innerHeight / 1.9 ? 15 : (d.y0 > innerHeight / 1.3 ? 0 : 9 )))
                     .text((d) => d.name)
                     .append("tspan")
                     .attr("fill-opacity", 0.6)
                     .attr("font-weight", 500)
-                    .attr("font-size", (d) => (d.y0 < innerHeight / 2 ? 9 : 6))
+                    .attr("font-size", (d) => (d.y0 < innerHeight / 1.9 ? 14 : (d.y0 > innerHeight / 1.3 ? 0 : 8 )))
                     .text((d) => ` ${format(d.value)}`);
 
                 // Draw links
@@ -139,4 +139,4 @@ const SankeyInvestments = () => {
     return <div class="oursvg" ref={chartRef}></div>;
 };
 
-export default SankeyInvestments;
+export default SankeyAll;

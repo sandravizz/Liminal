@@ -19,7 +19,7 @@ like Nivo) to generate data visualizations. Typescript is optional.
 ## Preparation
 
 #### Data cleaning and processing
-In the [first step](https://observablehq.com/d/5ae7f207809e418b?collection=@sandraviz/liminal) checked the dataset and variables and did some cleaning. 
+In the [first step](https://observablehq.com/d/5ae7f207809e418b?collection=@sandraviz/liminal) I checked the dataset and variables, afterwards I did some cleaning.
 
 ##### Visualisation: Investors (Entity vs. Person)
 In the [second step](https://observablehq.com/d/9839cdc79406e156?collection=@sandraviz/liminal) I checked the investors through a ranking visualisation. 
@@ -28,28 +28,26 @@ In the [second step](https://observablehq.com/d/9839cdc79406e156?collection=@san
 In the [third step](https://observablehq.com/d/1822f94eb67efc32?collection=@sandraviz/liminal) I checked the investment through a ranking visualisation. 
 
 #### Dataset for the sankey 
-In the [forth step](https://observablehq.com/d/287f65b4ed6e3521?collection=@sandraviz/liminal) I create the data files for the sankey. 
+In the [fourth step](https://observablehq.com/d/287f65b4ed6e3521?collection=@sandraviz/liminal) I created the data files for the sankey. 
 
 #### Sankey investors vs. investments
-In the [fith step](https://observablehq.com/d/0b719034860b8bbb?collection=@sandraviz/liminal) I sketch the sankey idea using d3.js.  
+In the [fifth step](https://observablehq.com/d/0b719034860b8bbb?collection=@sandraviz/liminal) I sketched the sankey idea using d3.js.  
 
 #### Sankey segments vs. investors
-In the [sixth step](https://observablehq.com/d/efd395409ebc2dc6?collection=@sandraviz/liminal) I create anthor sankey connectig the solution segments to the investors. Didn't use it in the final verison. 
+In the [sixth step](https://observablehq.com/d/efd395409ebc2dc6?collection=@sandraviz/liminal) I created anthor sankey connectig the solution segments to the investors. I didn't use it in the final visualisation.
 
 ### D3.js sankey 
-
-Please check the code in the main. 
+Please check the code in the MAIN.
 
 ![alt text](<Image d3.png>)
 
 ### React & d3.js sankey 
-
-Please check the code in the branch. 
+Please check the code in the BRANCH. 
 
 ##### Interactivity button
-
+There are three buttons to choose either from: all investors, only entities or only persons. 
 ![alt text](<Image 2 - react  .png>)
 
 ##### Interactivity hover
-
+When hover over either the bars to the left (investments) or to the right (investors) the select investor and all their investments are highlighted. 
 ![alt text](<Image 3 - react.png>)
